@@ -1,0 +1,39 @@
+﻿  main.cpp
+C:\Studia\donkey\template-project-2\main.cpp(32,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(192,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Studia\donkey\template-project-2\main.cpp(192,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Studia\donkey\template-project-2\main.cpp(194,51): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Studia\donkey\template-project-2\main.cpp(199,51): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Studia\donkey\template-project-2\main.cpp(204,51): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Studia\donkey\template-project-2\main.cpp(214,47): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Studia\donkey\template-project-2\main.cpp(312,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(412,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(420,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(425,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(427,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(428,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(437,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(460,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(471,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(477,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(480,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(483,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(484,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(487,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(490,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(491,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(492,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(493,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(494,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(495,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(496,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(497,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(833,29): warning C4244: 'argument': conversion from 'double' to 'Uint32', possible loss of data
+C:\Studia\donkey\template-project-2\main.cpp(836,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Studia\donkey\template-project-2\main.cpp(852,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Studia\donkey\template-project-2\main.cpp(875,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Studia\donkey\template-project-2\main.cpp(874,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(885,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(1234,8): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Studia\donkey\template-project-2\main.cpp(51): warning C4715: 'hasFinishedLevel': not all control paths return a value
+  szablon2vs19.vcxproj -> C:\Studia\donkey\template-project-2\x64\Debug\szablon2vs19.exe
